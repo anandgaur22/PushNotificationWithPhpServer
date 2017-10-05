@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "860125990727",
+    "firebase_url": "https://pushnotificationfairbase.firebaseio.com",
+    "project_id": "pushnotificationfairbase",
+    "storage_bucket": "pushnotificationfairbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860125990727:android:c3719af51fffe92c",
+        "android_client_info": {
+          "package_name": "cubesquaretech.com.pushnotifyfairbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860125990727-okh7mhd422uom2jn5k7bmbe7nfktc7ah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cubesquaretech.com.pushnotifyfairbase",
+            "certificate_hash": "9b2aedaa5272ed946ce8136a912eea571596e446"
+          }
+        },
+        {
+          "client_id": "860125990727-6bv57uio5he1uqknrp9ljrk1nt61ui2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEqXRZjsmiElNkZWB52-zhPKOquXSRku0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860125990727-6bv57uio5he1uqknrp9ljrk1nt61ui2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

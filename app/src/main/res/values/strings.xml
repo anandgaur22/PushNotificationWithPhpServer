@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PushNotifyFairbase</string>
+
+    <string name="key">Key</string>
+    <string name="value">Value</string>
+    <string name="imei">IMEI/MEID/ESN</string>
+    <string name="imsi">IMSI</string>
+    <string name="mac_address">MAC Address</string>
+    <string name="serial_number">Serial Number</string>
+    <string name="android_id">Android ID</string>
+    <string name="advertising_id">Advertising ID</string>
+    <string name="copy_clipboard">Copied to clipboard</string>
+    <string name="not_found">Not Found</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="FCM_PREF">cubesquaretech.com.pushnotifyfairbase.fcm_pref</string>
+    <string name="FCM_TOKEN">cubesquaretech.com.pushnotifyfairbase.fcm_token</string>
+</resources>
